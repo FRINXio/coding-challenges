@@ -2,7 +2,7 @@
 
 Hello, you curious mind!  
 
-We see you've found our coding challenges. Feel free to solve any (or all) of them. Then, create a pull request with your soulutions. 
+We see you've found our coding challenges. Feel free to solve any (or all) of them. Then, create a pull request with your solutions. 
 We will review it and if it passes our tests, we would be thrilled to invite you for a formal interview.
 
 Who knows? Maybe you're the next member of our team.  
