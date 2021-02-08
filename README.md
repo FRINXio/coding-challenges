@@ -23,11 +23,12 @@ Here are the challenges for **Python**:
    Given strings `frinx` and `python`, it should return `False`.
 
 
-3. Write a function that transposes a matrix. In python, you can represent this matrix 
-    ![Matrix](resources/matrix.png)
-    as a nested list:
-   `[[1,2,3],  [4,5,6],  [7,8,9]]`
-   After succesfully implementing the transposition, your function should return 
-   `[[1,4,7], [2,5,8], [3,6,9]]`
-  *Extra points: Perform the tranposition in one line of code.*
+3. Write a function that transposes a matrix. In python, you can represent this matrix   
+    ![Matrix](resources/matrix.png)   
+    as a nested list:  
+   `[[1,2,3],  [4,5,6],  [7,8,9]]`   
+   After succesfully implementing the transposition, your function should return   
+   `[[1,4,7], [2,5,8], [3,6,9]]`   
+  *Extra points: Perform the tranposition in one line of code.*  
 ___
+
