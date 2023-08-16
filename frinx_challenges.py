@@ -16,7 +16,7 @@ def recursive_palindrome(word):
         return recursive_palindrome(word[1:-1])
 
 
-def transposition(matrix): return[[matrix[col][row] for col in range(len(matrix[0]))] for row in range(len(matrix))]
+def transposition(matrix): return[[matrix[col][row] for col in range(len(matrix))] for row in range(len(matrix[0]))]
 
 
 if __name__ == "__main__":
